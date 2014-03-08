@@ -1,3 +1,4 @@
+LOL
 Instalar git
 
     sudo apt-get install git-core
