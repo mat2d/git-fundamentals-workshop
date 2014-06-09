@@ -1,11 +1,13 @@
 # Taller de fundamentos de Git
 =========================
+### Fork del material de Fer Perales
+=========================
 
 ## Objetivo
 
-El objetivo del taller es brinder una introducción sobre el
+El objetivo del taller es brindar una introducción sobre el
 flujo de trabajo del sistema de control de versiones git así como su
-integración con el sistema de repositorios remotos GitHub.
+integración con el sistema de repositorios remotos.
 
 Al finalizar el taller, el asistente conocerá las ventajas de utilizar
 un CVS y podrá empezar a utilizar Git para
@@ -14,6 +16,8 @@ individual como de manera colaborativa por medio de la plataforma GitHub.
 
 
 ## Material
+
+
 
 La presentación sobre introducción a git y GitHub puede encontrarse en
 mi cuenta de [speakerdeck](http://speakerdeck.com/u/ferperales)
