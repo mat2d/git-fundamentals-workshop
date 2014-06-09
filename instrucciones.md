@@ -1,4 +1,3 @@
-LOL
 Instalar git
 
     sudo apt-get install git-core
@@ -57,10 +56,6 @@ Commit saltando el área de stage
 
 
 Borrando archivos
-
-    rm test.dm
-
-¿Qué pasó?
 
     git rm test.dm
 

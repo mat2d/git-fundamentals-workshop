@@ -16,8 +16,4 @@ individual como de manera colaborativa por medio de la plataforma GitHub.
 
 
 ## Material
-
-
-
-La presentación sobre introducción a git y GitHub puede encontrarse en
-mi cuenta de [speakerdeck](http://speakerdeck.com/u/ferperales)
+ La presentación no sirve de mucho, pero la dejo disponible en http://prezi.com/rl9me4rmyuia/introduccion-a-git/
